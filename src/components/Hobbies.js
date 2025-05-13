@@ -34,7 +34,7 @@ const Hobbies = () => {
               </h3>
             </div>
             <img
-              src={`${process.env.PUBLIC_URL}/images/la-dogers.jpg`}
+              src={`${process.env.PUBLIC_URL}/images/la-dogers.JPG`}
               alt="Watching Baseball"
               className="w-32 h-32 object-cover rounded-full shadow-md"
             />
