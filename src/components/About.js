@@ -11,7 +11,7 @@ const About = () => {
           {/* Left Image */}
           <div className="flex-shrink-0 w-1/3 sm:w-1/4">
             <img
-              src={`${process.env.PUBLIC_URL}/images/IMG_9729.JPG`}
+              src={`${process.env.PUBLIC_URL}/images/wedding-photo.jpg`}
               alt="Hao-Tang Li and companion wearing traditional kimono"
               className="rounded-lg shadow-lg w-full"
             />
@@ -26,17 +26,13 @@ const About = () => {
               </h1>
               <h2 className="text-4xl font-semibold text-gray-600">李昊唐</h2>
             </div>
-            <p className="mb-6">
-              Hi, I'm Hao-Tang Li, a software engineer with a passion for
-              frontend development. I specialize in React, TypeScript, and
-              modern UI frameworks like Ant Design and Tailwind CSS. I have
-              experience working with cross-functional teams to deliver
-              high-performance web applications.
+            <p className="mb-6 text-center">
+              上個月 8/17
+              結婚啦！！最近的煩惱是蜜月要去哪裡？歐洲？還是馬爾地夫？
             </p>
-            <p>
-              I focus on building accessible, responsive, and user-friendly
-              interfaces while collaborating with teams to integrate solutions
-              that scale and perform well.
+            <p className="mb-6 text-center">
+              婚紗照在上海拍的 (小紅書搜尋：RZ wedding)
+              攝影師人超好很會引導，拍出來的照片也很美！
             </p>
           </div>
         </div>

@@ -16,7 +16,7 @@ const Hobbies = () => {
           <div className="flex items-center space-x-6">
             <div>
               <h3 className="text-2xl font-semibold text-gray-800 mb-4">
-                手沖咖啡
+                咖啡拉花
               </h3>
             </div>
             <img
