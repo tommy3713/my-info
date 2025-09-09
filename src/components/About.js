@@ -27,8 +27,7 @@ const About = () => {
               <h2 className="text-4xl font-semibold text-gray-600">李昊唐</h2>
             </div>
             <p className="mb-6 text-center">
-              上個月 8/17
-              結婚啦！！最近的煩惱是蜜月要去哪裡？歐洲？還是馬爾地夫？
+              上個月 8/17 結婚啦！！究竟是愛情的墳墓還是幸福的開始呢ＸＤＤＤ
             </p>
             <p className="mb-6 text-center">
               婚紗照在上海拍的 (小紅書搜尋：RZ wedding)
